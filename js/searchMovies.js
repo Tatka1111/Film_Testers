@@ -12,7 +12,7 @@ searchResult.style.display = "none";
 
 async function fetchSearchFilms(title) {
   const response = await fetch(
-    `${BASE_URL}search/movie?api_key=5d5fbc20666787ca7b4a0d9d71c08715&query=${title}`
+    `${BASE_URL}search/movie?api_key=4b14499a7a4d8e1fd5ccb6a9c42a98e1&query=${title}`
   );
   if (!response.ok) {
     throw new Error(response.status);
