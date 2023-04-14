@@ -4,3 +4,4 @@ import "./js/movieModalWindow.js";
 import "./js/spinner.js";
 import "./js/pagination.js";
 import "./js/modal.js";
+

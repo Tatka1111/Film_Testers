@@ -1,34 +1,29 @@
 {
-  "name": "parcel-project-template",
-  "version": "2.0.0",
-  "description": "",
-  "homepage": "https://Tatka1111.github.io/Film_Testers",
+  "name": "clean_code_squad_filmoteka",
+  "version": "1.0.0",
+  "description": "A website that searches for popular movies and allows you to create your own movie library.",
+  "main": "index.js",
   "scripts": {
-    "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Film_Testers/"
+    "start": "snowpack dev",
+    "build": "snowpack build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/tomeksokol/CleanCodeSquad_Filmoteka.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Tomasz <fasa@.pl>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/tomeksokol/CleanCodeSquad_Filmoteka/issues"
+  },
+  "homepage": "https://tomeksokol.github.io/CleanCodeSquad_Filmoteka",
+  "devDependencies": {
+    "snowpack": "^3.8.8"
   },
   "dependencies": {
-    "modern-normalize": "^1.1.0",
-    "notiflix": "^3.2.6",
-    "parcel-transformer-hbs": "^1.0.3",
-    "sass": "^1.62.0",
+    "js.": "^1.0.0",
+    "sass": "^1.43.4",
     "spin.js": "^4.1.1"
-  },
-  "devDependencies": {
-    "@parcel/transformer-sass": "^2.6.0",
-    "parcel": "^2.6.0",
-    "parcel-reporter-clean-dist": "^1.0.4",
-    "posthtml-include": "^1.7.4"
-  },
-  "browserslist": "> 0.5%, last 2 versions, not dead"
+  }
 }
