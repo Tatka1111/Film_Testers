@@ -1,7 +1,7 @@
 @media screen and (min-width: 320px) {
   .header__library .container {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-      url("../images/layout/library/library-header-mobile.png");
+    url("../images/layout/index/header-mobile.png");
     background-repeat: no-repeat;
     background-size: cover;
     border: 1px solid rgba(0, 0, 0, 1);
@@ -13,13 +13,13 @@
 @media screen and (min-width: 768px) {
   .header__library .container {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-      url("../images/layout/library/library-header-tablet.png");
+    url("../images/layout/index/header-tab.png");
   }
 }
 
 @media screen and (min-width: 1024px) {
   .header__library .container {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-      url("../images/layout/library/library-header-desktop.png");
+    url("../images/layout/index/header-desk.png");
   }
 }
