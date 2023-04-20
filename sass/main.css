@@ -99,7 +99,7 @@ a {
     display: block;
     width: 100%;
     height: 3px;
-    background-color: #ff6b08;
+    background-color: #B92F2C;
   }
   .search__container {
     display: -webkit-box;
@@ -150,7 +150,7 @@ a {
     margin-left: 20px;
     font-size: 14px;
     line-height: 1.142;
-    color: #ff001b;
+    color: #B92F2C;
   }
 }
 
@@ -228,7 +228,7 @@ a {
 }
 
 .btn:hover, .btn:focus {
-  background: #ff6b01;
+  background: #B92F2C;
   border: transparent;
   -webkit-box-shadow: 5px 3px 35px 14px rgba(255, 107, 1, 0.53);
   box-shadow: 5px 3px 35px 14px rgba(255, 107, 1, 0.53);
@@ -239,7 +239,7 @@ a {
 }
 
 .activBtn {
-  background: #ff6b01;
+  background: #B92F2C;
   border: transparent;
   -webkit-box-shadow: 5px 3px 35px 14px rgba(255, 107, 1, 0.53);
   box-shadow: 5px 3px 35px 14px rgba(255, 107, 1, 0.53);
@@ -319,7 +319,7 @@ a {
     font-weight: 500;
     font-size: 12px;
     line-height: 1.333;
-    color: #ff6b08;
+    color: #B92F2C;
   }
 }
 
@@ -391,7 +391,7 @@ a {
     font-weight: 500;
     font-size: 12px;
     line-height: 1.333;
-    color: #ff6b08;
+    color: #B92F2C;
   }
 }
 
@@ -459,7 +459,7 @@ a {
 }
 
 .footer__page-icon {
-  fill: #ff6b08;
+  fill: #B92F2C;
   margin-right: 5px;
 }
 
@@ -591,7 +591,7 @@ a {
     display: -webkit-inline-box;
     display: -ms-inline-flexbox;
     display: inline-flex;
-    background-color: #ff6b01;
+    background-color: #B92F2C;
     width: 36px;
     height: 16px;
     border-radius: 5px;
@@ -660,7 +660,7 @@ a {
     color: #000;
   }
   .modal__buttons:hover, .modal__buttons:focus {
-    background: #ff6b01;
+    background: #B92F2C;
     border: 1px solid transparent;
     color: #ffffff;
     padding: 10px 8px;
@@ -779,7 +779,7 @@ a {
   position: relative;
   width: 30px;
   cursor: pointer;
-  color: #ff6b01;
+  color: #B92F2C;
   background: transparent;
   border: none;
   left: 120px;
@@ -801,15 +801,15 @@ a {
 }
 
 .modal__btn:focus, .modal__btn:hover {
-  background-color: #ff6b01;
-  border: 1px solid #ff6b01;
+  background-color: #B92F2C;
+  border: 1px solid #B92F2C;
   color: #ffffff;
   cursor: pointer;
 }
 
 .modal__img {
   border-radius: 50px;
-  border: 5px solid #ff6b01;
+  border: 5px solid #B92F2C;
   box-shadow: 2px -3px 20px 6px rgba(44, 39, 39, 0.62);
   -webkit-box-shadow: 2px -3px 20px 6px rgba(44, 39, 39, 0.62);
   -moz-box-shadow: 2px -3px 20px 6px rgba(44, 39, 39, 0.62);
@@ -845,7 +845,7 @@ a {
     top: 4px;
     background-color: transparent;
     border: none;
-    color: #ff6b01;
+    color: #B92F2C;
     z-index: 77;
     left: 180px;
   }
@@ -862,8 +862,8 @@ a {
     font-weight: 500;
   }
   .modal__btn:focus, .modal__btn:hover {
-    background-color: #ff6b01;
-    border: 1px solid #ff6b01;
+    background-color: #B92F2C;
+    border: 1px solid #B92F2C;
     color: #ffffff;
     cursor: pointer;
   }
@@ -885,7 +885,7 @@ a {
     top: 4px;
     background-color: transparent;
     border: none;
-    color: #ff6b01;
+    color: #B92F2C;
     z-index: 77;
     left: 170px;
   }
@@ -902,8 +902,8 @@ a {
   }
   .modal__btn:focus, .modal__btn:hover {
     color: #ffffff;
-    background-color: #ff6b01;
-    border: 1px solid #ff6b01;
+    background-color: #B92F2C;
+    border: 1px solid #B92F2C;
     cursor: pointer;
   }
 }
@@ -926,7 +926,7 @@ a {
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
   border: 16px solid #f3f3f3;
-  border-top: 16px solid #ff6b08;
+  border-top: 16px solid #B92F2C;
   border-radius: 50%;
   width: 120px;
   height: 120px;
@@ -1008,7 +1008,7 @@ ul.movie__pagination button.more-pages {
 
 ul.movie__pagination button.active-pagination {
   min-width: 40px;
-  background: #ff6b08;
+  background: #B92F2C;
   border-radius: 5px;
   color: #ffffff;
 }
@@ -1049,7 +1049,7 @@ ul.library__pagination button.more-pages {
 
 ul.library__pagination button.active-pagination {
   min-width: 40px;
-  background: #ff6b08;
+  background: #B92F2C;
   border-radius: 5px;
   color: #ffffff;
 }
@@ -1058,11 +1058,11 @@ ul.library__pagination button.active-pagination {
   background-color: black;
   padding: 20px;
   text-align: center;
-  color: #ff6b08;
+  color: #B92F2C;
   font-size: 16px;
   font-family: 'Roboto', sans-serif;
   opacity: 0.9;
-  border: 2px solid #ff6b08;
+  border: 2px solid #B92F2C;
   text-transform: uppercase;
   font-weight: bold;
   -ms-grid-columns: auto;
